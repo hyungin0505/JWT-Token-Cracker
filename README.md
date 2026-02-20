@@ -17,3 +17,5 @@ clang -O3 -Xpreprocessor -fopenmp \
 ```bash
 ./crack <wordlist.file> <JWT.TOKEN>
 ```
+
+[Wordlist Example](https://github.com/wallarm/jwt-secrets/blob/master/jwt.secrets.list)
